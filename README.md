@@ -1,16 +1,30 @@
-### Hi there 👋
+###  Hello and <s>Good</s> Great Day! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**jdmayer/jdmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Full Stack Developer and Research Associate <br/>
+🎓 <a href="https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/software-engineering/">Software Engineering </a> and <a href="https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/human-centered-computing/">Human Centered Computing </a> Graduate <a href="https://www.fh-ooe.at/en/hagenberg-campus/">@University of Applied Sciences Upper Austria, Hagenberg</a> <br/>
+❤ I love developing and creating things. Especially when they work. <br/>
+💀 Configuration problems are my favourite problems to avoid. <br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- TODO
+📕 Something to read
+- publication
+- master and bachelor thesis -- add as own repo
 -->
+
+<!-- 8ecae6, 219ebc, 023047, ffb703, fb8500 -->
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&color=8ecae6)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&color=219ebc)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=219ebc)
+![](https://img.shields.io/badge/Script-TypeScript-informational?style=flat&color=023047)
+![](https://img.shields.io/badge/Script-JavaScript-informational?style=flat&color=023047)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&color=ffb703)
+![](https://img.shields.io/badge/Platform-Unity-informational?style=flat&color=fb8500)
+
+
+<!-- themes overview: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<p align="center">
+	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmayer&hide=html&hide_title=true&layout=compact&langs_count=8&theme=slateorange" />
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=jdmayer&hide_title=true&hide=stars&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=slateorange" />
+</p>
+
+Enjoy roaming through my repositories and have a nice day! 🐱‍👤
