@@ -1,4 +1,4 @@
-###  Hello and <s>Good</s> Great Day! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Hello and <s>Good</s> Great Day! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 💼 Full Stack Developer and Research Associate <br/>
 🎓 <a href="https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/software-engineering/">Software Engineering </a> and <a href="https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/human-centered-computing/">Human Centered Computing </a> Graduate <a href="https://www.fh-ooe.at/en/hagenberg-campus/">@University of Applied Sciences Upper Austria, Hagenberg</a> <br/>
@@ -22,9 +22,9 @@
 
 
 <!-- themes overview: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<p align="center">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmayer&hide=html&hide_title=true&layout=compact&langs_count=8&theme=slateorange" />
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=jdmayer&hide_title=true&hide=stars&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=slateorange" />
-</p>
+<div align="center">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmayer&hide_title=true&layout=compact&langs_count=8&theme=slateorange" />
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jdmayer&hide_title=true&hide=stars&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange" />
+</div>
 
 Enjoy roaming through my repositories and have a nice day! 🐱‍👤
