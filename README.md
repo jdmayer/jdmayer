@@ -24,7 +24,10 @@
 <!-- themes overview: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <div align="center">
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmayer&hide_title=true&layout=compact&langs_count=8&theme=slateorange" />
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jdmayer&hide_title=true&hide=stars&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange" />
+     <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jdmayer&hide_title=true&hide=stars&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange" /> -->
 </div>
+
+I have pinned my favourite projects below! 
+In addition, I was happy to colaborate on the <a href="https://github.com/gratzerl/Perry">Perry repository</a> and in the course of my work at the <a href="https://github.com/HIVE-ResearchGroup">HIVE research group</a> on a <a href="https://github.com/HIVE-ResearchGroup/volumetric-data-interaction">volumetric data exploration AR prototype</a>.
 
 Enjoy roaming through my repositories and have a nice day! 🐱‍👤
