@@ -28,6 +28,6 @@
 </div>
 
 I have pinned my favourite projects below! 
-In addition, I was happy to colaborate on the <a href="https://github.com/gratzerl/Perry">Perry repository</a> and in the course of my work at the <a href="https://github.com/HIVE-ResearchGroup">HIVE research group</a> on a <a href="https://github.com/HIVE-ResearchGroup/volumetric-data-interaction">volumetric data exploration AR prototype</a>.
+In addition, I was happy to colaborate on the <a href="https://github.com/gratzerl/Perry">Perry repository (recipe recommender)</a> and in the course of my work at the <a href="https://github.com/HIVE-ResearchGroup">HIVE research group</a> on a <a href="https://github.com/HIVE-ResearchGroup/volumetric-data-interaction">volumetric data exploration AR prototype</a>.
 
 Enjoy roaming through my repositories and have a nice day! 🐱‍👤
