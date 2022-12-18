@@ -3,7 +3,7 @@
 💼 Full Stack Developer and Research Associate <br/>
 🎓 <a href="https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/software-engineering/">Software Engineering </a> and <a href="https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/human-centered-computing/">Human Centered Computing </a> Graduate <a href="https://www.fh-ooe.at/en/hagenberg-campus/">@University of Applied Sciences Upper Austria, Hagenberg</a> <br/>
 ❤ I love developing and creating things. Especially when they work. <br/>
-💀 Configuration problems are my favourite problems to avoid. <br/>
+💀 Configuration problems are my favourite things to avoid. <br/>
 
 <!-- TODO
 📕 Something to read
@@ -28,6 +28,6 @@
 </div>
 
 I have pinned my favourite projects below! 
-In addition, I was happy to colaborate on the <a href="https://github.com/gratzerl/Perry">Perry repository (recipe recommender)</a> and in the course of my work at the <a href="https://github.com/HIVE-ResearchGroup">HIVE research group</a> on a <a href="https://github.com/HIVE-ResearchGroup/volumetric-data-interaction">volumetric data exploration AR prototype</a>.
+In addition, I was happy to collaborate on the <a href="https://github.com/gratzerl/Perry">Perry repository (recipe recommender)</a> and in the course of my work at the <a href="https://github.com/HIVE-ResearchGroup">HIVE research group</a> on a <a href="https://github.com/HIVE-ResearchGroup/volumetric-data-interaction">volumetric data exploration AR prototype</a>.
 
 Enjoy roaming through my repositories and have a nice day! 🐱‍👤
